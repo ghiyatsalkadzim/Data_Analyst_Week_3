@@ -103,3 +103,29 @@ result:
 
 ![Screenshot (911)](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_3/assets/134476980/b81af96d-a8ed-42a8-adb7-119e7c66f17b)
 
+Example of darkgrid and white grid
+
+Darkgrid: 
+![darkgrid](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_3/assets/101807673/3f5b3585-0a30-46be-941f-071baaacb74f)
+
+whitegrid:
+![whitegrid](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_3/assets/101807673/ad5620e0-76ac-457a-8d4e-1831ebe83d45)
+
+
+### Dataset Using Seaborn
+Seaborn itself doesn't provide built-in datasets. It's a visualization library that works with data you provide.  However, there are a couple ways to get datasets to use with seaborn: Load an example dataset:  Seaborn does have a function called load_dataset that can download a small set of sample datasets from a public repository.  These are meant for documentation purposes and exploring how to use seaborn functions, not for substantial data analysis. You can find more info on how to use this function in the seaborn documentation
+
+Example:
+- ![SEABORNBAR](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_3/assets/101807673/1d28ca31-3343-428d-a3da-af937476dab1)
+
+### Histogram, Bins, and Range
+A histogram is a powerful tool data analysts use to visualize the distribution of continuous data. Imagine you have a bunch of numbers representing things like heights, weights, or test scores. A histogram helps you understand how these values are spread out.
+Here's how it works:
+- Bins: Data analysts don't plot every single data point. Instead, they group the data points into ranges called bins. These bins act like buckets, where each bucket holds data points that fall within a certain range.
+- Range: The range refers to the overall spread of your data. It's the difference between the highest and lowest values in your dataset. When creating bins, you consider the range to decide how wide each bin should be and how many bins you need.
+
+Example:
+![histogram](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_3/assets/101807673/7d563f6e-2808-44ef-8271-dd94b3427c22)
+
+
+
